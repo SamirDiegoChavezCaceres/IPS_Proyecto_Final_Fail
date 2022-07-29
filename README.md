@@ -9,6 +9,7 @@
   </p>
 </p>
 
+###  Proyecto final del curso de IPS
 ### *** Deprecation warning ***
 
 This project was created almost two years ago. Since then, there is a newer version of the project which you can find [here](https://github.com/justdjango/django-simple-ecommerce)
